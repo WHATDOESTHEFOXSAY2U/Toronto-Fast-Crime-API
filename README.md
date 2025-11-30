@@ -3,7 +3,7 @@
 > **A premium, real-time safety analytics platform for Toronto.**
 > *Powered by Advanced Geospatial Analysis & Machine Learning.*
 
-![Dashboard Preview](/Users/parthm1/.gemini/antigravity/brain/e8b6be67-3976-496c-bed7-e5eea8ed6581/dashboard_preview_png_1764518574860.png)
+![Dashboard Preview](/Users/parthm1/.gemini/antigravity/brain/68ed131c-95d8-486e-ba62-e05700bf7ada/dashboard_mockup_1764523855436.png)
 
 ## 📖 Overview
 
@@ -18,24 +18,10 @@ It features a **premium React frontend** for interactive exploration and a **Fas
 The system is built on a modern, scalable stack designed for performance and ease of use.
 
 ```mermaid
-graph TD
-    subgraph "Data Pipeline"
-        A[Toronto Police Portal] -->|Download CSVs| B(ingest_data.py)
-        B -->|Clean & Normalize| C[(SQLite Database)]
-        B -->|Generate Benchmarks| D[benchmarks.json]
-    end
-
-    subgraph "Backend API"
-        C --> E[FastAPI Server]
-        D --> E
-        E -->|Calculate Score| F[scoring.py]
-        E -->|Predict Trends| G[forecasting.py]
-    end
-
-    subgraph "Frontend Client"
-        E -->|JSON Response| H[React App]
-        H -->|Visualize| I[User Interface]
-    end
+graph LR
+    A[Toronto Police Portal] -->|ingest_data.py| B[(SQLite Database)]
+    B -->|Query| C[FastAPI Backend]
+    C -->|JSON Response| D[React Frontend]
 ```
 
 ### Core Components
