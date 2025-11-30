@@ -13,44 +13,16 @@ It features a **premium React frontend** for interactive exploration and a **Fas
 
 ---
 
-graph LR
-    %% -- THEME & STYLING --
-    %% High-contrast "Professional" Palette
-    classDef source fill:#2d3436,stroke:#636e72,stroke-width:2px,color:#fff;
-    classDef script fill:#ffeaa7,stroke:#fdcb6e,stroke-width:2px,color:#2d3436,stroke-dasharray: 5 5;
-    classDef db fill:#55efc4,stroke:#00b894,stroke-width:2px,color:#2d3436;
-    classDef api fill:#74b9ff,stroke:#0984e3,stroke-width:2px,color:#2d3436;
-    classDef ui fill:#a29bfe,stroke:#6c5ce7,stroke-width:2px,color:#fff;
-    
-    %% Style the connecting lines to be gray and curved
-    linkStyle default stroke:#b2bec3,stroke-width:2px,fill:none;
+## 🏗️ Architecture
 
-    %% -- NODES --
-    subgraph External ["📡 Input Source"]
-        direction TB
-        %% ([Shape]) creates a rounded "stadium" shape
-        A([Toronto Police Portal]):::source
-    end
+The system is built on a modern, scalable stack designed for performance and ease of use.
 
-    subgraph DataLayer ["💾 Storage"]
-        direction TB
-        %% [() Shape] creates a database cylinder
-        B[("SQLite Database")]:::db
-    end
-
-    subgraph AppLayer ["⚙️ Application Core"]
-        direction TB
-        %% {{Shape}} creates a hexagon
-        C{{FastAPI Backend}}:::api
-        %% [[Shape]] creates a box with double borders
-        D[["React Frontend"]]:::ui
-    end
-
-    %% -- EDGES --
-    A -->|ingest_data.py| B
-    B -->|SQL Query| C
-    C -->|JSON Response| D
-
+| Component | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Ingestion** | `ingest_data.py` | Python script that fetches and normalizes data from the source. |
+| **Database** | `SQLite` | Lightweight database for fast, local data persistence. |
+| **Backend** | `FastAPI` | High-performance backend serving data via REST endpoints. |
+| **Frontend** | `React` | Modern frontend for visualizing the data. |
 ---
 
 ## 🚀 Getting Started
