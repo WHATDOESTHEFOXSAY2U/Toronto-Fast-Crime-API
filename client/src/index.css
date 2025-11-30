@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-slate-950 text-slate-100 font-inter antialiased overflow-hidden;
+    }
+}
+
+@layer components {
+    .glass-panel {
+        @apply bg-slate-900/60 backdrop-blur-2xl border border-white/10 shadow-2xl rounded-2xl;
+        box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    }
+
+    .glass-card {
+        @apply bg-slate-800/40 backdrop-blur-xl border border-white/5 hover:border-white/10 transition-all duration-300 rounded-xl;
+    }
+
+    .text-gradient {
+        @apply bg-clip-text text-transparent bg-gradient-to-r from-white to-slate-400;
+    }
+
+    .neon-text-safe {
+        text-shadow: 0 0 10px rgba(34, 197, 94, 0.5);
+    }
+
+    .neon-text-unsafe {
+        text-shadow: 0 0 10px rgba(244, 63, 94, 0.5);
+    }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    @apply bg-slate-700/50 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    @apply bg-slate-600/80;
+}
+
+/* Leaflet Dark Mode Overrides */
+.leaflet-container {
+    background: #0f172a !important;
+}

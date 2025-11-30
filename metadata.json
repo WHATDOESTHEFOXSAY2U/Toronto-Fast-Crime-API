@@ -1,0 +1,72 @@
+{
+  "last_refresh": "2025-11-30 11:57:25",
+  "datasets": [
+    {
+      "name": "Shooting_and_Firearm_Discharges",
+      "file": "Shooting_and_Firearm_Discharges.csv",
+      "count": 6724,
+      "min_date": "2004-01-01",
+      "max_date": "2025-09-30"
+    },
+    {
+      "name": "Homicides",
+      "file": "Homicides.csv",
+      "count": 1513,
+      "min_date": "2004-01-03",
+      "max_date": "2025-09-15"
+    },
+    {
+      "name": "Assault",
+      "file": "Assault.csv",
+      "count": 242671,
+      "min_date": "1964-09-01",
+      "max_date": "2025-09-30"
+    },
+    {
+      "name": "Auto_Theft",
+      "file": "Auto_Theft.csv",
+      "count": 73739,
+      "min_date": "1978-04-10",
+      "max_date": "2025-09-30"
+    },
+    {
+      "name": "Bicycle_Thefts",
+      "file": "Bicycle_Thefts.csv",
+      "count": 39473,
+      "min_date": "1975-08-16",
+      "max_date": "2025-09-30"
+    },
+    {
+      "name": "Break_and_Enter",
+      "file": "Break_and_Enter.csv",
+      "count": 81551,
+      "min_date": "1994-09-17",
+      "max_date": "2025-09-30"
+    },
+    {
+      "name": "Robbery",
+      "file": "Robbery.csv",
+      "count": 39117,
+      "min_date": "1980-04-24",
+      "max_date": "2025-09-30"
+    },
+    {
+      "name": "Theft_From_Motor_Vehicle",
+      "file": "Theft_From_Motor_Vehicle.csv",
+      "count": 102942,
+      "min_date": "1963-03-15",
+      "max_date": "2025-09-30"
+    },
+    {
+      "name": "Theft_Over",
+      "file": "Theft_Over.csv",
+      "count": 15871,
+      "min_date": "1980-01-01",
+      "max_date": "2025-09-30"
+    }
+  ],
+  "overall_range": {
+    "start": "1963-03-15",
+    "end": "2025-09-30"
+  }
+}
