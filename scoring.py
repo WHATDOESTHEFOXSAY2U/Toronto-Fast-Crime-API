@@ -436,3 +436,40 @@ def calculate_score(lat, lon, radius_km=0.8):
     }
     
     return response
+
+def get_heatmap_data():
+    """
+    Fetches crime data for the heatmap visualization.
+    Returns a list of [lat, lon, weight] for the last 1 year.
+    """
+    conn = get_db_connection()
+    
+    # Get data for the last 1 year
+    query = '''
+        SELECT lat, lon, category
+        FROM crimes
+        WHERE date >= date('now', '-1 year')
+    '''
+    
+    try:
+        df = pd.read_sql_query(query, conn)
+        conn.close()
+        
+        if df.empty:
+            return []
+            
+        # Map categories to weights
+        df['weight'] = df['category'].map(WEIGHTS).fillna(1)
+        
+        # Normalize weights for heatmap (0.1 to 1.0 range usually works best for leaflet.heat)
+        # But leaflet.heat takes raw intensity. Let's cap it.
+        # Homicides (100) should be very intense. Thefts (1) less so.
+        # Let's just return the raw weight and handle intensity in frontend or here.
+        # For now, let's return [lat, lon, weight]
+        
+        return df[['lat', 'lon', 'weight']].values.tolist()
+        
+    except Exception as e:
+        print(f"Error fetching heatmap data: {e}")
+        return []
+

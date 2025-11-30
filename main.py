@@ -111,5 +111,16 @@ def get_score_by_coords(
     
     return response
 
+@app.get("/heatmap")
+def get_heatmap():
+    """
+    Get crime data for heatmap visualization.
+    Returns:
+        list: List of [lat, lon, intensity]
+    """
+    data = scoring.get_heatmap_data()
+    return data
+
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8001)

@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { MapContainer, TileLayer, useMap, useMapEvents, Marker, Circle, Polygon } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import { TORONTO_BOUNDARY } from './TorontoBoundary';
+import HeatmapLayer from './HeatmapLayer';
 
 // Component to handle map clicks and movement
 function MapController({ onLocationSelect, center }) {
@@ -9,10 +10,10 @@ function MapController({ onLocationSelect, center }) {
 
     useEffect(() => {
         if (center) {
-            map.flyTo(center, map.getZoom(), {
-                duration: 1.5,
-                easeLinearity: 0.25
-            });
+            // map.flyTo(center, map.getZoom(), {
+            //     duration: 1.5,
+            //     easeLinearity: 0.25
+            // });
         }
     }, [center, map]);
 
@@ -41,6 +42,9 @@ export default function Map({ center, onLocationSelect }) {
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
                 url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
             />
+
+            {/* Heatmap Layer */}
+            <HeatmapLayer />
 
             {/* Toronto City Boundary */}
             <Polygon
