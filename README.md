@@ -3,7 +3,7 @@
 > **A premium, real-time safety analytics platform for Toronto.**
 > *Powered by Advanced Geospatial Analysis & Machine Learning.*
 
-![Dashboard Preview](/Users/parthm1/.gemini/antigravity/brain/68ed131c-95d8-486e-ba62-e05700bf7ada/dashboard_mockup_1764523855436.png)
+![Dashboard Preview](dashboard_mockup.png)
 
 ## 📖 Overview
 
