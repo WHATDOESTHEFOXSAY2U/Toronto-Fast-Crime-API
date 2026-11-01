@@ -20,7 +20,32 @@ The Development Applications dataset does **not** include Committee of
 Adjustment files, even though its description says it does. The second
 dataset fills that gap.
 
-## Run it
+## Beyond Toronto
+
+`gta.py` does the same lookup for other GTA municipalities. It uses their
+public ArcGIS map services, which return everything within N metres of a
+point directly, so nothing is bulk-downloaded. Addresses are geocoded with
+Esri's public World Geocoder.
+
+| Source | Covers | Records | Last updated (as of Nov 1, 2026) | Gaps |
+|---|---|---|---|---|
+| City of Brampton | rezonings/OPAs/subdivisions, site plans, condo plans, minor variances, consents, pre-consultations | ~16,600 incl. history | Oct 31, 2026 | full history, so it needs heavy filtering |
+| York Region | active applications across Vaughan, Markham, Richmond Hill, Aurora, Newmarket, King, etc. | ~5,500 active | newest file Oct 25, 2026 | minor variances only where circulated to the Region |
+| Town of Oakville | site plans, rezonings, OPAs, subdivisions, with home counts as numbers | 713 | Oct 31, 2026 | no minor variances or severances |
+
+Not found in open data: Mississauga, Durham Region (Pickering, Ajax,
+Whitby, Oshawa) and Burlington. Milton publishes subdivisions only.
+
+```bash
+pip install pyproj shapely
+python3 dev_report/gta.py york     "40 Arnold Ave, Vaughan, ON"
+python3 dev_report/gta.py oakville "120 Navy St, Oakville, ON"
+python3 dev_report/gta.py brampton "25 Royce Ave, Brampton, ON"
+```
+
+Worked examples for each are in [`examples/`](examples/).
+
+## Run it (Toronto)
 
 ```bash
 pip install pandas pyproj

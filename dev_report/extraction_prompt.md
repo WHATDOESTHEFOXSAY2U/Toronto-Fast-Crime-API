@@ -64,6 +64,28 @@ Committee of Adjustment applications (file numbers like `A0615/26TEY` or
 - *TLAB Appeal* means appealed to the Toronto Local Appeal Body. If the
   decision was Refused, it is refused – under appeal.
 
+Other GTA municipalities (Brampton, York Region, Oakville) use their own
+words for the same stages:
+- *Pre Consultation* (Brampton): an early idea discussed with city staff.
+  It is not an application yet. Report it as "early proposal".
+- *In Review*, *In Circulation*, *Open*, *Submitted*, *Deemed Complete* and
+  *In Progress (Review / ...)* mean submitted.
+- *In Review-Public Mtg Complete* and *Staff Review Complete* mean
+  submitted, public meeting held.
+- *Council Approval*, *Approved*, *Draft Approved*, *LPAT Approved*,
+  *OMB - Approved* and *In Progress (Finalization / Appeal Period)* mean
+  rezoning approved. On a site plan they mean building details approved.
+- *Site Plan Agreement Prep*, *Agreement Execution* and *Clearing
+  Conditions* mean building details approved, with final paperwork being
+  done.
+- *Final and Binding* means minor variance approved.
+- *Appealed*, *Under Appeal* and *In Appeal* mean at the Ontario Land
+  Tribunal.
+- *In Progress (Finalization / Construction)* means under construction or
+  built.
+- Outside Toronto, distances are measured to the nearest edge of the site,
+  not its street address.
+
 ### Size rules
 
 - **Big:** 13 or more storeys, or 150 or more homes.

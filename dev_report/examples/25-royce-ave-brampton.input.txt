@@ -1,0 +1,146 @@
+HOME: 25 Royce Ave, Brampton, Ontario, L6Y 1J6
+RADIUS: 500 m
+CHECKED: Nov 1, 2026
+SOURCE: City of Brampton Open Data, Planning & Land Use Development layers
+OPEN APPLICATIONS FOUND: 39 (left out: 93 closed/withdrawn/registered, 69 approved more than 6 years ago)
+
+=== SITE 1: 12 HENDERSON AVE | 83 m southeast
+- SPA-2021-0047 | Site Plan Approval | Site Plan Agreement Prep | submitted 2021-03-08
+  We are seeking approval at this time to construct 148 stacked townhouse units on a portion of the property. We will be submitting a separate Site Plan Approval application at a later date for the proposed apartment building.
+- B-2022-0028 | Consent | Approved | submitted 2022-12-15
+  severance for the creation of a new lot together with easements for storm water services, storm water management and, watermain and fire hydrant in favour of the retained lands of the retained lands and an easement for access in favour of the severed lands.
+
+=== SITE 2: 0 HAGGERT AVE S | 83 m southeast
+- A-2021-0227 | Minor Variance | Approved | submitted 2021-09-27
+  1. To permit a maximum of 441 dwelling units whereas a maximum of 402 units are permitted. 2. To permit a maximum floor space index of 1.3 whereas a maximum floor space index of 1.2 is permitted.
+
+=== SITE 3: 1-10 HENDERSON AVE | 90 m northeast
+- A-2019-0071 | Minor Variance | In Review | submitted 2019-11-28
+  To permit 124.5 sq.m for the use of a personal service shop whereas the previous approved area was 63 sq.m.
+- OZS-2024-0047 | OPA ZBA Subdivision | In Review-Public Mtg Complete | submitted 2024-08-06
+  The proposed development of the Subject Lands entails a twenty-two (22) storey Mixed Use Apartment Building comprising of two hundred and seventy-four (274) Apartment Dwelling units, three (3) Commercial units, 20,892 Square Metres of total Gross Floor Area (GFA) including 2,057 Square Metres of commercial GFA, two (2) levels of associated below grade parking as well as amenity areas. The proposed development seeks to reestablish site access from Henderson Avenue, at the southwest section of the site, while abandoning the Royce Avenue access.
+
+=== SITE 4: 3 HAGGERT AVE S | 96 m west
+- A-2021-0114 | Minor Variance | Approved | submitted 2021-05-14
+  To permit a front yard setback of 3.08 metres (porch addition) whereas the by-law requires a minimum front yard setback of 6.0 metres; To permit lot coverage of 31.32% whereas the by-law permits a maximum lot coverage of 30%.
+- A-2023-0416 | Minor Variance | In Review | submitted 2023-12-20
+  1. To permit a rear yard setback of 3.08m to a proposed sunroom addition, whereas the by-law requires a minimum rear yard setback of 5.47m.
+
+=== SITE 5: 49 ROYCE AVE | 96 m southwest
+- A-2023-0280 | Minor Variance | Final and Binding | submitted 2023-09-11
+  1. To permit a reduced path of travel of 1.19 metres for a principal entrance for the second unit, whereas the by-law requires a minimum unobstructed path of travel measuring no less than 1.2 metres is required; and 2. To permit an interior side yard setback of 0.1 metres to a proposed below grade entrance, whereas the by-law requires a minimum 0.3 metres setback to exterior stairway leading to a below grade entrance in the interior yard provided that a continuous side yard width of no less than 1.2 metres is provided on the opposite side of the dwelling.
+
+=== SITE 6: 53 ROYCE AVE | 132 m southwest
+- A-2022-0030 | Minor Variance | In Review | submitted 2022-02-18
+  Need a minor variance for the lot size. Originally lot size is 17.98 meters. To do the two lots on it, city requires 18 meters of front lot
+- B-2022-0001 | Consent | In Review | submitted 2022-02-18
+  New Lot
+
+=== SITE 7: 101-53 MCHARDY PL | 153 m southeast
+- SPA-2021-0234 | Site Plan Approval | Site Plan Approved | submitted 2021-11-19
+  Limited Site Plan Application to permit placement of a clothing drop box.
+
+=== SITE 8: 12 HENDERSON AVE, 45 HAGGERT AVE S | 171 m south
+- SPA-2022-0007 | Site Plan Approval | In Review | submitted 2022-01-07
+  The proposed development (Phase 2 for this property) consists of a 13 storey residential building with 293 units and a GFA of 24,409.94m².
+
+=== SITE 9: 249 QUEEN ST W | 206 m west
+- SPA-2021-0190 | Site Plan Approval | In Review | submitted 2021-08-24
+  RE-PURPOSE EXISITNG DWELLING TO BE USED AS A COMMERCIAL OFFICE (DENTAL) AND PROVIDE REQUIRED PARKING AREA ON THE PROPERTY, WITH A PROPOSED ROOF CANOPY , NEW RAMP, LANDING AND STAIRS LOCATED AT REAR
+
+=== SITE 10: 0 ROYCE AVE | 216 m southwest
+- PRE-2024-0023 | Pre Consultation | Comments Released | submitted 2024-02-20
+  The proposed redevelopment of a raised three-storey multi-unit residential dwelling comprised of four (4) dwelling units and at-grade parking located under the building. An Official Plan Amendment would be required.
+
+=== SITE 11: 219 QUEEN ST W | 237 m north
+- A-2025-0105 | Minor Variance | Final and Binding | submitted 2025-11-18
+  1. To permit a medical dental office, whereas the by-law does not permit the use.
+
+=== SITE 12: 267 QUEEN ST W | 253 m west
+- A-2021-0005 | Minor Variance | Approved | submitted 2021-01-25
+  1. To permit 38.3% of the floor area of the dwelling to be used as a home occupation (spa) whereas the by-law permits a maximum of 15% of the floor area of the dwelling to be used as a home occupation;
+
+=== SITE 13: 2-207 QUEEN ST W | 267 m north
+- PRE-2021-0225 | Pre Consultation | Comments Released | submitted 2021-11-24
+  207 Queen's St. W, Brampton - Lot A12 Lot 01 Assessment Roll No: 10-03-0-028-23300-0000 209 Queen's St. W, Brampton - Lot A12 Lot 02 Assessment Roll No: 10-03-0-028-23200-0000 211 Queen's St. W, Brampton - Lot A12 Lot 03 Assessment Roll No: 10-03-0-028-23100-0000 Demolish all existing building on the Lot 01, Lot 02 and Lot 03 and merge them as One Lot. The new development consists of a proposal of a 10 storey Condominium with Commercial and Office spaces in the first and second floor respectively.
+
+=== SITE 14: 101-31 FAIR OAKS PL | 294 m southeast
+- SPA-2021-0238 | Site Plan Approval | Site Plan Approved | submitted 2021-11-19
+  Limited Site Plan Application to permit the placement of a clothing drop box.
+
+=== SITE 15: 195 QUEEN ST W | 320 m north
+- PRE-2023-0123 | Pre Consultation | Meeting Scheduled | submitted 2023-09-27
+  Conversion of single detached home and detached garage into new residential units. New building will be 4 stories; 1 AODA unit on first floor, 3 units on floors second to fourth for a total of 10 units. Parking for 6 vehicles.
+
+=== SITE 16: 57 McMurchy Ave South | 322 m east
+- C01W05.042 | Draft Plan of Condo | In Review | submitted 2014-03-05
+  To permit 15 townhouse units with a condominium tenure.
+
+=== SITE 17: 30 MCLAUGHLIN RD S | 335 m southwest
+- SPA-2021-0045 | Site Plan Approval | Agreement Execution | submitted 2021-03-05
+  Proposed 8 Storey Residential complex with Commercial pace on the ground floor. Consists of 250.73 square metres of commercial space and 109 residential apartment units.
+
+=== SITE 18: 159 BUFFORD DR | 339 m southwest
+- A-2023-0088 | Minor Variance | Approved | submitted 2023-03-22
+  to permit a below grade side door in the required interior side yard, whereas the by law does not permit a below grade side door in the required interior side yard. to permit a below grade side door in the interior side yard having a setback of 0.0m whereas the by law requires a minimum interior side yard setback of 1.2m
+
+=== SITE 19: 187 QUEEN ST W | 346 m north
+- A-2022-0344 | Minor Variance | Approved | submitted 2022-10-19
+  Expansion of Legal non-conforming use permitting a second unit) require approval.
+
+=== SITE 20: address not given | 374 m north
+- PRE19.028 | Pre Consultation | Comments Released | submitted 2019-06-05
+  Proposal for subdivison of 22 townhouses and 1 single on Avanti Crt road extension
+- A19-142 | Minor Variance | Submitted | submitted 2019-07-23
+  new
+
+=== SITE 21: 147 NELSON ST W | 407 m northwest
+- PRE-2022-0044 | Pre Consultation | Comments Released | submitted 2022-03-10
+  G-force Planners are pleased to make an application for a Pre-consultation meeting with staff for properties municipally addressed as 147 Nelson Street West, Brampton ON. The proposal set forth in the application for pre-consultation is to construct three residential townhouses on the subject property. This proposal will require a Zoning Bylaw amendment and a Sit Plan Agreement. The subject property is 0.094 ha in area, has a frontage of 23.14 meters and a depth of 40.94 meters. The property is currently zoned as Residential R1B Zone and the proposal is to rezone it to R3B Zone-Street Townhouse Dwelling .
+
+=== SITE 22: 48 MCLAUGHLIN RD S | 414 m southwest
+- PRE-2025-0003 | Pre Consultation | Meeting Scheduled | submitted 2025-01-07
+  Constructing a new asphalt parking lot of about 40 spaces.
+
+=== SITE 23: 178 QUEEN ST W | 423 m north
+- A-2021-0244 | Minor Variance | Approved | submitted 2021-10-21
+  The proposed is zoned SC-3220, Retail is currently not permitted. Request for zoning for retail proposed new cannabis store.
+
+=== SITE 24: 69 ELLIOTT ST | 428 m east
+- SPA-2024-0068 | Site Plan Approval | Site Plan Approved | submitted 2024-05-21
+  A one storey addition to the west side of the existing Memorial Arena, approximately 280 sq.m. The new addition accommodates two groups of players including 2 change rooms, 2 washrooms (1 in each change room), 6 showers (3 in each change room), 1 coach office, 1 trainer room, 1 large turf storage room, 2 small storage rooms, janitor closet, electrical room, circulation and entrance lobby.
+
+=== SITE 25: 346 Queen Street West | 451 m west
+- A19-018 | Minor Variance | In Review | submitted 2018-12-13
+  Deferred Indefinitely
+
+=== SITE 26: 348 Queen Street West | 467 m west
+- A19-019 | Minor Variance | In Review | submitted 2018-12-13
+  Deferred Indefinitely
+
+=== SITE 27: 126 NELSON ST W | 483 m northwest
+- OZS-2025-0044 | OPA ZBA Subdivision | Staff Review Complete | submitted 2025-10-03
+  Proposal submitted to assist with facilitating the construction of an 8- storey, 153 room hotel that will be fronting Nelson Street West. An amendment to the Official Plan and Zoning By-law will be required to assist with the development. The zoning of the land is proposed to permit the hotel use, along with a banquet hall and office on the second floor of the building, with a maximum combined gross floor area of 250 square metres and only in conjunction with the hotel.
+
+=== SITE 28: 93 FREDERICK ST | 485 m east
+- A-2020-0155 | Minor Variance | Final and Binding | submitted 2020-12-15
+  1. To permit a detached garage with a gross floor area of 55.55 square metres, whereas a maximum gross floor area for a detached garage shall not exceed 48 square meters.
+
+=== SITE 29: 24 HAGGERT AVE N | 488 m northwest
+- A-2026-0060 | Minor Variance | In Review | submitted 2026-08-12
+  (no description published)
+
+=== SITE 30: 1-8850 MCLAUGHLIN RD S | 492 m southwest
+- PRE-2021-0237 | Pre Consultation | Comments Released | submitted 2021-12-09
+  The applicant GAVE, proposes to build a campus of care for seniors from the Vietnamese community and the wider population as a whole. The development would be comprised of two (2) buildings on the site, a four (4) storey Long-Term Care facility with an approximate Gross Floor Area (GFA) of 11,659 square metres, and a six (6) storey seniors' rental apartment building with an approximate GFA of 13,229 square metres. The two buildings will be connected at-grade by a cultural centre and amenities for residents.
+- SPA-2023-0019 | Site Plan Approval | Site Plan Approved | submitted 2023-02-28
+  City of Brampton is proposing a one storey building addition of 331.93m2 in building area, to the north side of the existing one storey Flower City Campus Building, housing the Building Department and By-Law Enforcement. The ground floor building addition will provide for additional office space. The building addition will also provide a basement level that will include additional staff meeting rooms and a virtual reality meeting space. There are no changes to exterior parking or access drives.
+- SPA-2025-0028 | Site Plan Approval | Site Plan Approved | submitted 2025-02-19
+  File number Pre-2023-0151 Dated February 8, 2024 Installation of 74 Level 2 and 4 Level 3 EV Charging stations into the existing parking lot at the City of Brampton FCCC Campus
+
+=== SITE 31: 8950 MCLAUGHLIN RD S | 492 m southwest
+- A-2021-0137 | Minor Variance | Approved | submitted 2021-06-10
+  Permission for an apartment dwelling on the site, as an additional
+- A-2023-0082 | Minor Variance | Approved | submitted 2023-03-21
+  1. to permit hydro transformers with an exterior side yard setback of 6.34m, whereas the by law requires an exterior side yard setback of 7.9m 2. to permit a generator with an interior side yard setback of 3.74m, whereas the by-law requires an interior side yard setback of 7.9m. 3. to permit building height of 4 storeys for the proposed long term care facilty, whereas the by law permits a maximum building height of 3 storeys. 4. to permit loading spaces with no access to a street, whereas the by law requires loading spaces to be accessible from a street. 5. to permit parking spaces with no access to a street, whereas the by law requires loading spaces to be accessible from a street. 6. to permit a rear yard setback of 3.71m, whereas the by law requires a rear yard setback of 7.9m 7. to permit an interior side yard setback of 4,17m, whereas, the by law requires an intrior side yard setback of 7.5m 8. to permit a lot coverage of 33.93%, whereas the by law permits a maximum lot coverage of 33.3%
+

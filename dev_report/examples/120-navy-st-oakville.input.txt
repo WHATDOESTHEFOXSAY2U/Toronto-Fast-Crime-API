@@ -1,0 +1,57 @@
+HOME: 120 Navy St, Oakville, Ontario, L6J 2Z4
+RADIUS: 500 m
+CHECKED: Nov 1, 2026
+SOURCE: Town of Oakville Open Data, Planning and Development Applications
+OPEN APPLICATIONS FOUND: 12 (left out: 9 closed/withdrawn/registered, 5 approved more than 6 years ago)
+
+=== SITE 1: 150 Randall St | 100 m north
+- folder 834917 | Site Plan | Clearing Conditions | submitted 2024-01-24
+  homes: 293 (proposed; city's structured field)
+  12 Storey mid-rise buildings with two storeys of mechanical penthouses. Contemplates retail uses on ground floor, facing Navy Street and Church Street.
+
+=== SITE 2: 125 Randall St | 122 m northwest
+- folder 829057 | Zoning Bylaw Amendment | Council Approval (council decision 2024-01-30) | submitted 2023-11-20
+  Paid commercial parking inventory which would create 18 additional parking spaces in the downtown BIA district.
+
+=== SITE 3: 106-114 Robinson Street and 71 Water Street | 149 m southeast
+- folder 757273 | Zoning Bylaw Amendment | LPAT Approved | submitted 2022-05-25
+  homes: 10 (approved; city's structured field)
+  ZBA to permit ten 3 storey street townhouse units fronting on Robinson Street with underground parking at the rear of the units accessed from Water Street. 80 Navy Street and 104 Robinson Street are designated Heritage in Amanda. Application was opened under 144 Robinson Street.
+
+=== SITE 4: 71 Water St | 149 m southeast
+- folder 829155 | Site Plan | Clearing Conditions | submitted 2023-11-20
+  homes: 10 (proposed; city's structured field)
+  10 3-storey street townhouse units
+
+=== SITE 5: 193 Church St | 235 m north
+- folder 968800 | Site Plan | In Circulation | submitted 2026-08-12
+  Oakville Central Library
+
+=== SITE 6: 8 Navy St | 317 m southeast
+- folder 644805 | Zoning Bylaw Amendment | Open | submitted 2019-10-01
+  Cultural Heritage Special Policy Areas Including Erchless Estate
+- folder 645254 | Official Plan Amendment | Open | submitted 2019-10-10
+  Cultural Heritage Special Policy Areas Including Erchless Estate
+
+=== SITE 7: 110 Chisholm St | 326 m southwest
+- folder 726684 | Site Plan | Final Approval | submitted 2021-08-27
+  homes: 3 (approved; city's structured field)
+  4 storey, 3 unit apartment with balconies and rooftop terrace, parking and mechanical on ground floor
+
+=== SITE 8: 42 Lakeshore Rd W | 332 m southwest
+- folder 808670 | Official Plan Amendment | Appealed | submitted 2023-09-13
+  homes: 152 (proposed; city's structured field)
+  The Official Plan and Zoning By-law Amendment submission is to facilitate a 10-storey, 38.25 m. mixed-use building consisting of 152 units in 12,593 square meters of residential floor area and 630 square meters of commercial and retail floor area.
+- folder 808671 | Zoning Bylaw Amendment | Appealed | submitted 2023-09-13
+  homes: 152 (proposed; city's structured field)
+  The Official Plan and Zoning By-law Amendment submission is to facilitate a 10-storey, 38.25 m. mixed-use building consisting of 152 units in 12,593 square meters of residential floor area and 630 square meters of commercial and retail floor area.
+
+=== SITE 9: 86 Wilson St | 456 m south
+- folder 805276 | Site Plan | Clearing Conditions | submitted 2023-08-17
+  Third storey addition, and lobby and elevator addition, onto an existing two storey building
+
+=== SITE 10: 152 Wilson St | 459 m southwest
+- folder 955165 | Site Plan | In Circulation | submitted 2026-04-30
+  homes: 222 (proposed; city's structured field)
+  Retirement Home
+

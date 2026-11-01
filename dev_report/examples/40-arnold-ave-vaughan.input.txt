@@ -1,0 +1,58 @@
+HOME: 40 Arnold Ave, Thornhill, Ontario, L4J 1B3
+RADIUS: 500 m
+CHECKED: Nov 1, 2026
+SOURCE: York Region Open Data, Active Development Applications
+OPEN APPLICATIONS FOUND: 14 (left out: 0 closed/withdrawn/registered, 0 approved more than 6 years ago)
+
+=== SITE 1: 7554 Yonge Street, Vaughan | 143 m east
+- SPV05912 | Site Plan | In Progress (Finalization / Construction) | submitted 2012-12-21
+  Proposed redevelopment of an existing public school (Location: Southwest corner of Yonge Street and Arnold Avenue)
+
+=== SITE 2: 7616 Yonge Street, 7610 Yonge Street, 16 Arnold Avenue +12 more, Vaughan | 188 m northeast
+- 19CDM13V10 | Draft Plan of Condominium | In Progress (Finalization / Draft Approved) | submitted 2013-09-19
+  To facilitate the development of 212 residential units. (Location: West of Yonge Street, north of Arnold Avenue)
+
+=== SITE 3: Vaughan | 256 m south
+- SPV01416 | Site Plan | In Progress (Finalization / Construction) | submitted 2016-02-05
+  To construct a two-storey detached dwelling.The existing one storey bungalow and and detached garage will be demolished. (Location: 133 Brooke Street (South of Centre Street, West of Yonge Street))
+- Yonge Steeles Secondary Plan | Block Plan | In Progress (Intake / Cursory Evaluation) | submitted 2025-08-29
+  To facilitate review of the Yonge Steeles Corridor Secondary Plan South Area – South of the CN Railway and East of Hilda Avenue Master Servicing Plan (MSP), which will provide a servicing strategy for the Yonge/Steeles area.
+
+=== SITE 4: 7596 Yonge Street, 7584 Yonge Street, 7588 Yonge Street +11 more, Vaughan | 283 m northeast
+- 19CDM13V09 | Draft Plan of Condominium | In Progress (Review / Preparing Comment Letter) | submitted 2013-08-28
+  To facilitate the development of 7 commercial units condominiums. (Location: West of Yonge Street, north of Arnold Avenue)
+
+=== SITE 5: 5 Thorny Brae Drive, Markham | 318 m northeast
+- 25.115690.000.00.MNV | Minor Variances | In Progress (Review / Awaiting Comments) | submitted 2025-05-02
+  To permit: a minimum front yard setback of 8.34 metres and : a maximum second-storey main building coverage of 33.2 percent. (Location: South of Highway 407, east of Yonge Street)
+
+=== SITE 6: 7545 Yonge Street, Markham | 322 m east
+- SPC 22 245693 | Site Plan | In Progress (Review / Awaiting Response) | submitted 2022-09-06
+  To facilitate a new automatic car wash facility (Location: North of Elgin Street and East of Yonge Street)
+
+=== SITE 7: 7509 Yonge Street, 7529 Yonge Street, Markham | 337 m east
+- 23.141587.000.00.PLAN | Local Official Plan Amendment | In Progress (Finalization / Appeal Period) | submitted 2023-10-24
+  To permit two towers of 60-storeys in height atop a podium ranging from 1- to 8-storeys in height, containing 1,330 new residential units and retail uses at-grade. (Location: East of Yonge Street and South of Highway 7)
+- 23.141587.000.00.PLAN | Zoning By-law Amendment | In Progress (Finalization / Appeal Period) | submitted 2023-10-24
+  To rezone from Highway Commercial (HC1) and Third Density Multiple Family Residential Zone (RM3) to Community Amenity Two (CA2). To permit two towers of 60-storeys in height atop a podium ranging from 1- to 8-storeys in height, containing 1,330 new residential units and retail uses at-grade. (Location: East of Yonge Street and South of Highway 7)
+
+=== SITE 8: 223 Centre Street, 217 Centre Street, 215 Centre Street +1 more, Vaughan | 363 m northwest
+- A102/19 | Minor Variances | In Progress (Review / Response Provided) | submitted 2019-10-04
+  2nd Submission is for increased gross floor area, increased lot coverage, (which has been reduced since the first submission) and increased building height which has been reduced from the first submission The pool has been deleted from the plans 1st Submission To allow a max lot coverage and a max building height for the construction of a new residential dwelling. The existing dwelling is to be demolished. (Location: 45 Donna Mae Cres)
+
+=== SITE 9: 1 Raymond Drive, Vaughan | 433 m west
+- A226/18 | Minor Variances | In Progress (Review / Response Provided) | submitted 2019-01-08
+  Variance to permit an increased lot coverage and increased building height for the purpose of a new home and backyard swimming pool. (Location: South of Centre Street, north side of Raymond Drive)
+
+=== SITE 10: 7714 Yonge Street, Vaughan | 451 m north
+- DA.14.009 | Site Plan | In Progress (Review / Awaiting Response) | submitted 2014-02-27
+  To permit a two-storey rear addition to the existing heritage dwelling to facilitate development of a Pharmacy on the first floor, a business and professional office on the second floor (Doctors Office), and an eating establishment (cafe) within the retained portion of the heritage dwelling. (Location: South of Highway 407 and west of Yonge Street)
+
+=== SITE 11: 33 Centre Street, Vaughan | 461 m north
+- Z.18.038 | Zoning By-law Amendment | In Progress (Review / Response Provided) | submitted 2019-02-07
+  To permit a 2 storey addition to the existing building and permit office and retail uses. (Location: South of Centre Street and West of Yonge Street)
+
+=== SITE 12: Markham | 497 m southeast
+- 26.118156.000.00.MNV | Minor Variances | In Progress (Review / Awaiting Comments) | submitted 2026-05-20
+  To permit the conversion of the basement level into residential suites.
+
