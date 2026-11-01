@@ -1,0 +1,66 @@
+HOME: 40 Bertmount Ave, Toronto
+RADIUS: 500 m
+CHECKED: Nov 1, 2026
+SOURCE: City of Toronto Open Data, Development Applications + Committee of Adjustment Applications (both refreshed daily; same records as the Application Information Centre)
+OPEN APPLICATIONS FOUND: 14
+
+=== SITE 1: 27 Brooklyn Ave | 47 m southwest
+- A0615/26TEY | Minor Variance, Other | Hearing Scheduled | submitted 2026-08-21
+  To construct a new two-storey detached ancillary building (containing a one-car garage, and an exterior staircase that will lead to a rooftop deck), in the rear yard, abutting the laneway.
+
+=== SITE 2: 31 Bertmount Ave | 52 m east
+- (file number not published) | Minor Variance, New R Building | Application Received | submitted 2021-11-03
+  (no description published yet)
+
+=== SITE 3: 111 Caroline Ave | 190 m south
+- A0744/26TEY | Minor Variance, R Addition | Tentatively Scheduled | submitted 2026-10-23
+  Proposal for 1 storey garage.
+
+=== SITE 4: 111 Bertmount Ave | 209 m north
+- (file number not published) | Minor Variance, R Addition | In Process | submitted 2026-10-20
+  (no description published yet)
+
+=== SITE 5: 45 Jones Ave | 212 m east
+- A0594/25TEY | Minor Variance, R Addition | TLAB Appeal (decision: Refused) | submitted 2025-07-22
+  To legalize and maintain the existing rear two-storey addition, including a basement extension below with a walkout, a rear second floor balcony (above the garage), and side (north) exterior staircases (one leading to the ground level and one leading to the second level), which was constructed without an authorized building permit.This addition will be abutting the existing one-storey detached ancillary building (garage), will not be accessible through the main portion of the dwelling and will have separate accesses to each level. There will be one residential dwelling unit on this lot.
+
+=== SITE 6: 1001 Queen St E | 286 m southwest
+- 18 167660 STE 30 SA | Site Plan | NOAC Issued | submitted 2018-05-29
+  http://app.toronto.ca/AIC/index.do?folderRsn=d2a%2BPGZzngdpA80dpmwQKA%3D%3D
+  Site Plan Control application fpr a proposed mixed use building with an overall height of 6-storeys (inclusive of mechanical). A total of 16 residential units are proposed on the second through sixth storeys, and retail/commercial space is proposed on the ground floor.
+
+=== SITE 7: 29 Boston Ave | 293 m southwest
+- A0848/23TEY | Minor Variance, R Addition | Approved with Conditions (decision: Approved) | submitted 2023-09-27
+  To construct a one-storey ancillary building (detached garage) in the rear yard, abutting the laneway.
+
+=== SITE 8: 65 Caroline Ave | 307 m south
+- A0749/21TEY | Minor Variance, R Addition | TLAB Appeal (decision: Refused) | submitted 2021-06-04
+  To alter the existing two-storey semi-detached dwelling by constructing a rear ground floor deck with a wood privacy screen.
+
+=== SITE 9: 17 Curzon St | 339 m east
+- A0506/20TEY | Minor Variance, R Addition | Hearing Scheduled (decision: Deferred) | submitted 2020-06-12
+  To alter the existing two-storey detached dwelling by constructing a rear two-storey addition, a front second storey addition, a full third storey addition with front and rear balconies, and a rear exterior staircase to the third storey.
+
+=== SITE 10: 68 Dagmar Ave | 356 m north
+- A1082/16TEY | Minor Variance, R Addition | Prepare Notice (decision: Approved) | submitted 2016-11-07
+  To alter the existing two-storey detached house by constructing a rear and side one-storey addition, a second floor rear and side addition with a rear deck and a third floor addition with a rear deck.
+
+=== SITE 11: 9 Peyton Lane | 422 m north
+- A0332/25TEY | Minor Variance, New R Building | Postponed | submitted 2025-04-28
+  To construct a new three-storey detached building (fourplex - four residential dwelling units - refer to the basement floor plan whereby one dwelling unit is partially above another dwelling unit). Each residential dwelling unit will have an integral garage, and a rear partially covered second floor balcony. This proposal has been reviewed as a building abutting side lot lines as the lot does not abut a municipal street. Also, the existing two-storey detached building (currently abutting Peyton Lane) will be maintained and unaltered.
+
+=== SITE 12: 1233 Queen St E | 461 m east
+- 22 123729 STE 14 SA | Site Plan | NOAC Issued | submitted 2022-03-17
+  also filed under: 77 Leslie St, 1243 Queen St E
+  http://app.toronto.ca/AIC/index.do?folderRsn=nAz%2BaUnaluNUoOpG2I0PTQ%3D%3D
+  Site Plan Control application to facilitate the redevelopment of the site for a 9-storey mixed-use building having a non-residential gross floor area of 366.9m2, and a residential gross floor area of 10,088.1m2. A total of 142 dwelling units are proposed.
+
+=== SITE 13: 675 Eastern Ave | 473 m south
+- 20 219216 STE 14 SA | Site Plan | NOAC Issued | submitted 2020-11-17
+  http://app.toronto.ca/AIC/index.do?folderRsn=V1i1UN2PXVZdMEyKFQmEbA%3D%3D
+  Site Plan approval application for the construction of a private road with public access easement to connect Eastern Ave and Lake Shore Blvd E, as contemplated by Site Specific by-law 1174-2015. NOAC issued December 5, 2025.
+
+=== SITE 14: 199 Jones Ave | 495 m north
+- B0051/22TEY | Consent (severance), Sever Lot | TLAB Appeal (decision: Refused) | submitted 2022-06-20
+  To obtain consent to sever the property into two undersized residential lots.
+

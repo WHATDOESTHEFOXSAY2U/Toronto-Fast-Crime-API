@@ -2,3 +2,5 @@ crime_data.db
 data/assault.csv
 crime_data.db
 data/assault.csv
+dev_report/.cache/
+__pycache__/
